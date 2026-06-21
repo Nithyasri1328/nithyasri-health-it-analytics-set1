@@ -1,0 +1,6 @@
+Pandas NumPy script patient data, aligns EQ 70% responsible.
+Pandas NumPy script for patient data analysis.
+The script creates a DataFrame, cleans missing values,
+groups patient data, converts data to a NumPy array,
+and calculates statistics. Aligns with responsible and
+structured data analysis practices.
